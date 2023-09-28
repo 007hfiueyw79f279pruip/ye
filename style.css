@@ -1,10 +1,10 @@
 @import url(styles/header.css);
 @import url(styles/grid.css);
 :root{
-    --cor-de-fundo: #e5e5e5;
+    --cor-de-fundo: #ffffff;
     --branco: #FFFFFF;
     --amarelo:  #FECD2F;
-    --roxo-degrade: linear-gradient(94.49deg,  #733887 35.48%,  #C75EEB 143.32%);
+    --roxo-degrade: linear-gradient(94.49deg,  #000000 35.48%,  #000000 143.32%);
     --font-secundaria: "Borel";
 
 }
